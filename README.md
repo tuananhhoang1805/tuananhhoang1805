@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tuananhhoang1805
 - 👀 I’m interested in React JS
-- 🌱 I’m currently learning ReactJS, Redux, NodeJS , MUI 
+- 🌱 I’m know basic ReactJS, Redux, NodeJS , MUI , NextJS.
 
 
 <!---
